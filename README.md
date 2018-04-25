@@ -7,7 +7,7 @@ git clone https://github.com/Bobslegend61/hackerbay_frontend
 npm start
 ```
 OR
-
+check it here [Github pages](http://Bobslegend61.github.io/hackerbay_frontend)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
